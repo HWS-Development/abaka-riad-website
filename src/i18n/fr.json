@@ -418,5 +418,9 @@
       { "src": "/images/rooms/Suite Jasmin de Damas.webp", "alt": "Lobby details", "cat": "rooms" },
       { "src": "/images/rooms/Suite Musc Oriental.webp", "alt": "Lobby details", "cat": "rooms" }
     ]
+  },
+  "booking": {
+    "apply": "Appliquer",
+    "cancel": "Annuler"
   }
 }
