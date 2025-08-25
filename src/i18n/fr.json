@@ -1,0 +1,422 @@
+{
+  "common": {
+    "brand": "Abaka Riad by Ghali",
+    "checkIn": "Arrivée",
+    "checkOut": "Départ",
+    "adults": "Adultes",
+    "children": "Enfants",
+    "search": "Rechercher"
+  },
+  "nav": {
+    "home": "Accueil",
+    "rooms": "Chambres",
+    "restaurant": "Restaurant",
+    "discover": "Découvrir",
+    "activities": "Activités",
+    "gallery": "Galerie",
+    "contact": "Contact"
+  },
+  "footer": {
+    "strapline": "Réservez en direct pour la meilleure expérience",
+    "explore": "Explorer",
+    "getInTouch": "Nous contacter",
+    "helpText": "Des questions sur votre séjour ou des demandes spéciales ? Nous sommes à votre écoute.",
+    "contactUs": "Nous écrire",
+    "bookNow": "Réserver",
+    "rights": "tous droits réservés",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  },
+  "hero": {
+    "title": "Vivez une expérience de luxe",
+    "subtitle": "Un riad élégant au cœur de Marrakech"
+  },
+  "home": {
+    "promo": "Code promo",
+    "promoPlaceholder": "Optionnel",
+    "checkAvailability": "Vérifier la disponibilité",
+
+    "roomsTitle": "Chambres & Suites",
+    "viewAll": "Voir tout",
+    "viewMore": "Voir plus",
+    "rooms": [
+      {
+        "name": "Suite Deluxe",
+        "short": "Suite élégante avec vue sur le patio",
+        "image": "https://images.unsplash.com/photo-1505691723518-36a5ac3b2a26?q=80&w=800"
+      },
+      {
+        "name": "Chambre Terrasse",
+        "short": "Charmante chambre avec terrasse",
+        "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=800"
+      },
+      {
+        "name": "Chambre Patio",
+        "short": "Chambre lumineuse donnant sur la cour",
+        "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=800"
+      },
+      {
+        "name": "Suite Familiale",
+        "short": "Suite spacieuse pour familles",
+        "image": "https://images.unsplash.com/photo-1555854877-bab0e564b8d5?q=80&w=800"
+      }
+    ],
+
+    "facilitiesTitle": "Équipements & Services",
+    "facilities": [
+      { "icon": "wifi", "title": "Wi-Fi gratuit", "desc": "Disponible dans tout le riad" },
+      { "icon": "restaurant", "title": "Restaurant", "desc": "Cuisine marocaine authentique" },
+      { "icon": "transfer", "title": "Transfert aéroport", "desc": "Prise en charge et dépôt faciles" },
+      { "icon": "terrace", "title": "Terrasse rooftop", "desc": "Superbes vues sur Marrakech" },
+      { "icon": "spa", "title": "Spa & Hammam", "desc": "Soins traditionnels relaxants" },
+      { "icon": "breakfast", "title": "Petit déjeuner", "desc": "Petit déjeuner marocain inclus chaque jour" }
+    ],
+    "reviewsTitle": "Avis des clients",
+    "reviewsAvg": "Note moyenne ★★★★★",
+    "reviews": {
+      "items": [
+        { "quote": "Accueil incroyable de l’équipe — très serviable et à l’écoute.", "author": "Annie — Booking.com" },
+        { "quote": "Beau riad très bien situé. Patio calme avec une jolie piscine.", "author": "Christelle — Cliente" },
+        { "quote": "Personnel aux petits soins. Excellent petit-déjeuner, proche de Jemaa el-Fna.", "author": "Marco — Client" },
+        { "quote": "Chambres confortables, déco authentique et terrasse rooftop relaxante.", "author": "Sofia — Cliente" }
+      ]
+    },
+
+    "locationTitle": "Emplacement",
+    "locationIntro": "Au cœur de la médina de Marrakech — ruelles calmes, à deux pas des sites majeurs.",
+    "getDirections": "Itinéraire sur Google Maps",
+    "location": {
+      "chips": ["Jemaa el-Fna · 5 min", "Koutoubia · 10 min", "2 Patios", "Terrasse Rooftop"]
+    },
+    "about": {
+      "eyebrow": "Riad Ghali & Spa",
+      "title": "À propos d’Abaka Riad by Ghali",
+      "lead": "Une oasis de tranquillité à deux pas de l’énergie de la médina — deux patios, une terrasse rooftop et une hospitalité chaleureuse.",
+      "bullets": [
+        "Rénové avec services & équipements améliorés",
+        "Deux patios et une terrasse ombragée",
+        "Petit déjeuner marocain inclus chaque jour",
+        "Espace bien-être : hammam, sauna, massages",
+        "Emplacement central près de Jemaa el-Fna"
+      ],
+      "cta": "En savoir plus"
+    },
+    "discover": {
+      "title": "Découvrir",
+      "items": [
+        {
+          "badge": "Spa",
+          "title": "Centre de Spa",
+          "text": "Rituels indulgents et massages relaxants.",
+          "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1600",
+          "href": "/spa"
+        },
+        {
+          "badge": "Expériences",
+          "title": "Visites guidées",
+          "text": "Excursions privées vers le désert et les vallées cachées.",
+          "image": "https://images.unsplash.com/photo-1531390377885-6192a8743828?q=80&w=1600",
+          "href": "/activities"
+        }
+      ]
+    },
+    "intro": {
+      "eyebrow": "Riad Ghali & Spa",
+      "title": "Vivez une expérience de luxe",
+      "lead": "Oasis de tranquillité au cœur de Marrakech — deux patios, une terrasse rooftop et une chaleureuse hospitalité marocaine.",
+      "bullets": [
+        "Chambres rénovées avec TV satellite & fibre",
+        "Hammam traditionnel, sauna & massages relaxants",
+        "Petit déjeuner quotidien — spécialités marocaines",
+        "Quartier calme à 5 minutes de Jemaa el-Fna"
+      ],
+      "cta": "En savoir plus",
+      "img1": "/images/interior1.jpg",
+      "img2": "/images/rooftop3.jpg"
+    },
+    "extras": {
+      "title": "Services supplémentaires",
+      "viewAll": "Voir tout",
+      "items": [
+        {
+          "id": "spa",
+          "badge": "Spa",
+          "title": "Spa & Hammam",
+          "text": "Rituels de hammam, gommage au savon noir, enveloppements au ghassoul et massages apaisants.",
+          "href": "/discover#spa"
+        },
+        {
+          "id": "tours",
+          "badge": "Expériences",
+          "title": "Excursions guidées",
+          "text": "Sorties privées vers le désert d’Agafay, la vallée de l’Ourika ou Essaouira avec chauffeurs de confiance.",
+          "href": "/discover#tours"
+        },
+        {
+          "id": "transfer",
+          "badge": "Transport",
+          "title": "Transfert aéroport",
+          "text": "Accueil aéroport et trajets en ville — sur demande.",
+          "href": "/discover#transfer"
+        }
+      ]
+    }
+
+  },
+  "rooms": {
+    "eyebrow": "Abaka Riad by Ghali",
+    "title": "Chambres & Suites",
+    "lead": "Suites élégantes et chambres de charme aux détails marocains.",
+    "gridTitle": "Choisissez votre séjour",
+    "gridHint": "Les superficies et capacités varient selon la chambre.",
+    "viewRoom": "Voir la chambre",
+    "book": "Réserver",
+    "close": "Fermer",
+    "items": [
+      {
+        "id": "suite-femme-berbere",
+        "name": "Suite Femme Berbère",
+        "short": "Suite de 25 m² avec décoration berbère et vue sur le jardin.",
+        "long": "Suite d’inspiration berbère avec vue sur le jardin. Expérience confortable et authentique.",
+        "size": "25 m²",
+        "capacity": "Jusqu’à 3 personnes",
+        "features": ["Lit double + lit simple", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "image": "/images/rooms/Suite Femme berbère.webp",
+        "gallery": [
+          "/images/rooms/Suite Femme berbère.webp"
+        ]
+      },
+      {
+        "id": "suite-musc-oriental",
+        "name": "Suite Musc Oriental",
+        "short": "Suite de 25 m² de style oriental marocain avec vue terrasse.",
+        "long": "Élégante suite de style oriental marocain avec accès terrasse.",
+        "size": "25 m²",
+        "capacity": "Jusqu’à 3 personnes",
+        "features": ["Lit double + lit simple", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "image": "/images/rooms/Suite Musc Oriental.webp",
+        "gallery": [
+          "/images/rooms/Suite Musc Oriental.webp"
+        ]
+      },
+      {
+        "id": "chambre-lune-de-miel",
+        "name": "Chambre Lune de Miel",
+        "short": "Chambre de 20 m² pour lune de miel avec vue terrasse.",
+        "long": "La chambre Lune de Miel offre luxe et intimité avec une décoration raffinée.",
+        "size": "20 m²",
+        "capacity": "Jusqu’à 2 personnes",
+        "features": ["Lit double", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "image": "/images/rooms/Chambre Lune de Miel.webp",
+        "gallery": [
+          "/images/rooms/Chambre Lune de Miel.webp"
+        ]
+      },
+      {
+        "id": "suite-berbere",
+        "name": "Suite Berbère",
+        "short": "Suite spacieuse de 40 m² donnant sur le patio.",
+        "long": "Suite spacieuse de style berbère donnant sur le patio.",
+        "size": "40 m²",
+        "capacity": "Jusqu’à 4 personnes",
+        "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "image": "/images/rooms/Suite Berbère.webp",
+        "gallery": [
+          "/images/rooms/Suite Berbère.webp"
+        ]
+      },
+      {
+        "id": "suite-jasmin-damas",
+        "name": "Suite Jasmin de Damas",
+        "short": "Suite de 25 m² avec vue piscine.",
+        "long": "Suite lumineuse avec vue sur la piscine, décorée de touches de jasmin.",
+        "size": "25 m²",
+        "capacity": "Jusqu’à 4 personnes",
+        "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "image": "/images/rooms/Suite Jasmin de Damas.webp",
+        "gallery": [
+          "/images/rooms/Suite Jasmin de Damas.webp"
+        ]
+      },
+      {
+        "id": "suite-cavalier-berbere",
+        "name": "Suite Cavalier Berbère",
+        "short": "Suite familiale de 30 m² avec vue terrasse.",
+        "long": "Suite familiale avec terrasse et mobilier inspiré du style berbère.",
+        "size": "30 m²",
+        "capacity": "Jusqu’à 4 personnes",
+        "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "image": "/images/rooms/Suite Cavalier berbère.webp",
+        "gallery": [
+          "/images/rooms/Suite Cavalier berbère.webp"
+        ]
+      },
+      {
+        "id": "double-fleur-oranger",
+        "name": "Double Fleur d’Oranger",
+        "short": "Chambre double de 15 m² avec vue couloir.",
+        "long": "Chambre double charmante avec des tons doux inspirés de la fleur d’oranger.",
+        "size": "15 m²",
+        "capacity": "Jusqu’à 2 personnes",
+        "features": ["Lit double", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "image": "/images/rooms/Double fleur d’oranger.webp",
+        "gallery": [
+          "/images/rooms/Double fleur d’oranger.webp"
+        ]
+      }
+    ],
+    "goodToKnow": {
+      "title": "Bon à savoir",
+      "items": [
+        { "label": "Arrivée", "value": "À partir de 14h00" },
+        { "label": "Départ", "value": "Jusqu'à 12h00" },
+        { "label": "Petit déjeuner", "value": "Marocain & continental, chaque jour" },
+        { "label": "Animaux", "value": "Non admis" },
+        { "label": "Paiements", "value": "Visa, Mastercard", "note": "Espèces acceptées sur place" },
+        { "label": "Réception", "value": "Accueil 24h/24" }
+      ]
+    },
+    "policies": {
+      "title": "Règlement intérieur & politiques",
+      "sections": [
+        {
+          "title": "Enfants & lits d’appoint",
+          "content": [
+            "Tous les enfants sont les bienvenus.",
+            "Lits bébés sur demande (selon disponibilité).",
+            "Lits d’appoint possibles pour certains types de chambres."
+          ]
+        },
+        {
+          "title": "Annulation / prépaiement",
+          "content": "Les conditions d’annulation et de prépaiement varient selon le type de chambre et le tarif. Veuillez vérifier votre option ou nous contacter."
+        },
+        {
+          "title": "Tabac",
+          "content": "Chambres non-fumeurs. Espaces extérieurs dédiés."
+        },
+        {
+          "title": "Heures calmes",
+          "content": "Merci de limiter le bruit entre 22h00 et 08h00."
+        }
+      ]
+    }
+  },
+  "discover": {
+    "header": {
+      "eyebrow": "Riad Ghali & Spa",
+      "lead": "Plus de façons de profiter du Riad Ghali & Spa",
+      "image": "/images/interior1.jpg"
+    },
+    "items": [
+      {
+        "id": "spa",
+        "badge": "Expériences",
+        "title": "Centre de Spa",
+        "text": "Bien-être indulgent avec hammam marocain, gommage au savon noir, enveloppements au ghassoul et massages relaxants.",
+        "image": "/images/spa.webp"
+      },
+      {
+        "id": "luxury",
+        "badge": "Transport",
+        "title": "EM Luxury",
+        "text": "Transferts aéroport fluides et excursions privées avec chauffeurs professionnels.",
+        "image": "/images/guided.jpg"
+      },
+      {
+        "id": "rooftop",
+        "badge": "Restaurant",
+        "title": "L’AMAZIGH Rooftop",
+        "text": "Dînez avec vue panoramique sur la Médina et un menu marocain raffiné.",
+        "image": "/images/rooftop_discover.webp",
+        "button": {
+          "label": "Explorer",
+          "href": "/restaurant",
+          "external": false
+        }
+      },
+      {
+        "id": "ghali",
+        "badge": "Découvrir",
+        "title": "Riad Ghali",
+        "text": "Ambiance chaleureuse à deux pas de Jemaa el-Fna — confort traditionnel et accueil convivial.",
+        "image": "/images/ghali.jpg",
+        "button": {
+          "label": "Explorer",
+          "href": "https://raid-ghali-website.vercel.app/",
+          "external": true
+        }
+      },
+      {
+        "id": "sania",
+        "badge": "Expériences",
+        "title": "Sania Riad by Ghali",
+        "text": "Maison d’hôtes de charme proche des principales attractions et jardins de Marrakech.",
+        "image": "/images/sania.webp"
+      }
+    ]
+  },
+  "contact": {
+    "contact": {
+      "header": {
+        "image": "/images/abaka.webp",
+        "lead": "Questions, réservations ou demandes spéciales ? Envoyez-nous un message, nous répondons rapidement."
+      },
+      "info": {
+        "title": "Adresse",
+        "addressLabel": "Adresse",
+        "phoneLabel": "Téléphone",
+        "emailLabel": "Email",
+        "hoursLabel": "Horaires",
+        "address": "Rue Moulay Taieb Ghali, Lakssour, 40030, Maroc",
+        "hours": "Tous les jours · 7h30 – 22h00"
+      },
+      "form": {
+        "title": "Envoyez-nous un message",
+        "name": "Votre nom *",
+        "email": "Votre email *",
+        "phone": "Votre téléphone (optionnel)",
+        "subject": "Sujet *",
+        "message": "Message *",
+        "consent": "J’accepte d’être contacté au sujet de ma demande.",
+        "send": "Envoyer le message",
+        "error": "Veuillez remplir tous les champs obligatoires.",
+        "success": "Merci ! Votre message a bien été envoyé."
+      },
+      "map": {
+        "title": "Nous trouver"
+      }
+    }
+  },
+  "gallery": {
+    "header": {
+      "image": "/images/rooftop4.jpg",
+      "lead": "Un aperçu de nos chambres, du rooftop, des rituels de spa et de la Médina."
+    },
+    "filters": {
+      "all": "Tout",
+      "rooms": "Chambres",
+      "rooftop": "Rooftop",
+      "spa": "Spa",
+      "medina": "Médina"
+    },
+    "items": [
+      { "src": "/images/abaka.webp", "alt": "Patio & pool", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/rooms/Chambre Lune de Miel.webp", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Double fleur d’oranger.webp", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooftop.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/rooftop1.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/rooftop2.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/interior.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/interior1.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/rooftop3.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/rooftop4.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/interior2.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/rooms/Suite Berbère.webp", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Cavalier berbère.webp", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Femme berbère.webp", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Jasmin de Damas.webp", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Musc Oriental.webp", "alt": "Lobby details", "cat": "rooms" }
+    ]
+  }
+}

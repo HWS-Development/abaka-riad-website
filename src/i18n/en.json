@@ -1,0 +1,452 @@
+{
+  "common": {
+    "brand": "Abaka Riad by Ghali",
+    "checkIn": "Check in",
+    "checkOut": "Check out",
+    "adults": "Adults",
+    "children": "Children",
+    "search": "Search"
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "restaurant": "Restaurant",
+    "discover": "Discover",
+    "activities": "Activities",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "footer": {
+    "strapline": "Book direct for the best experience",
+    "explore": "Explore",
+    "getInTouch": "Get in touch",
+    "helpText": "Questions about your stay or special requests? We’re here to help.",
+    "contactUs": "Contact us",
+    "bookNow": "Book now",
+    "rights": "all rights reserved",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "hero": {
+    "title": "Enjoy a Luxury Experience",
+    "subtitle": "An elegant riad in the heart of Marrakech"
+  },
+  "home": {
+    "promo": "Promo code",
+    "promoPlaceholder": "Optional",
+    "checkAvailability": "Check availability",
+
+    "roomsTitle": "Rooms & Suites",
+    "viewAll": "See all",
+    "viewMore": "View more",
+    "rooms": [
+      {
+        "id": "suite-femme-berbere",
+        "name": "Suite Femme Berbère",
+        "short": "25 m² suite with Berber decor and garden view.",
+        "long": "Traditional Berber-inspired suite with garden view. Comfortable and authentic experience.",
+        "size": "25 m²",
+        "capacity": "Up to 3 guests",
+        "features": ["Twin + single bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Femme berbère.webp",
+        "gallery": [
+          "/images/rooms/Suite Femme berbère.webp"
+        ]
+      },
+      {
+        "id": "suite-musc-oriental",
+        "name": "Suite Musc Oriental",
+        "short": "25 m² Moroccan-style suite with terrace view.",
+        "long": "Elegant Moroccan oriental style suite with terrace access.",
+        "size": "25 m²",
+        "capacity": "Up to 3 guests",
+        "features": ["Twin + single bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Musc Oriental.webp",
+        "gallery": [
+          "/images/rooms/Suite Musc Oriental.webp"
+        ]
+      },
+      {
+        "id": "chambre-lune-de-miel",
+        "name": "Chambre Lune de Miel",
+        "short": "20 m² honeymoon room with terrace view.",
+        "long": "The Honeymoon Room offers luxury and intimacy with refined decor.",
+        "size": "20 m²",
+        "capacity": "Up to 2 guests",
+        "features": ["Double bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Chambre Lune de Miel.webp",
+        "gallery": [
+          "/images/rooms/Chambre Lune de Miel.webp"
+        ]
+      },
+      {
+        "id": "suite-berbere",
+        "name": "Suite Berbère",
+        "short": "40 m² suite overlooking the courtyard.",
+        "long": "Spacious Berber-style suite overlooking the courtyard.",
+        "size": "40 m²",
+        "capacity": "Up to 4 guests",
+        "features": ["Twin + 2 single beds", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Berbère.webp",
+        "gallery": [
+          "/images/rooms/Suite Berbère.webp"
+        ]
+      }
+    ],
+
+    "facilitiesTitle": "Facilities & Services",
+    "facilities": [
+      { "icon": "wifi", "title": "Free Wi-Fi", "desc": "Available throughout the riad" },
+      { "icon": "restaurant", "title": "Restaurant", "desc": "Authentic Moroccan cuisine" },
+      { "icon": "transfer", "title": "Airport transfer", "desc": "Convenient pick-up & drop-off" },
+      { "icon": "terrace", "title": "Rooftop terrace", "desc": "Beautiful views of Marrakech" },
+      { "icon": "spa", "title": "Spa & Hammam", "desc": "Relaxing traditional treatments" },
+      { "icon": "breakfast", "title": "Breakfast", "desc": "Daily Moroccan breakfast included" }
+    ],
+
+    
+    "reviewsTitle": "Guest reviews",
+    "reviewsAvg": "Average rating ★★★★★",
+    "reviews": {
+      "items": [
+        { "quote": "Amazing welcome from the front team — extremely helpful and friendly.", "author": "Annie — Booking.com" },
+        { "quote": "Beautiful riad in a perfect location. Quiet patio with a lovely pool.", "author": "Christelle — Guest" },
+        { "quote": "Staff went above and beyond. Great breakfast and easy walk to Jemaa el-Fna.", "author": "Marco — Guest" },
+        { "quote": "Comfortable rooms, authentic decor and a relaxing rooftop terrace.", "author": "Sofia — Guest" }
+      ]
+    },
+
+    "locationTitle": "Location",
+    "locationIntro": "In the heart of Marrakech’s medina — quiet alleys, steps from major sights.",
+    "getDirections": "Get directions on Google Maps",
+    "location": {
+      "chips": ["Jemaa el-Fna · 5 min", "Koutoubia · 10 min", "2 Patios", "Rooftop Terrace"]
+    },
+    "about": {
+      "eyebrow": "Riad Ghali & Spa",
+      "title": "About Abaka Riad by Ghali",
+      "lead": "A tranquil oasis steps from the medina’s energy — two patios, a rooftop terrace and warm Moroccan hospitality.",
+      "bullets": [
+        "Renovated with upgraded service & equipment",
+        "Two patios and a shaded rooftop terrace",
+        "Daily Moroccan breakfast included",
+        "Wellness area: hammam, sauna, massages",
+        "Central location near Jemaa el-Fna"
+      ],
+      "cta": "Learn more"
+    },
+    "discover": {
+      "title": "Discover",
+      "items": [
+        {
+          "badge": "Spa",
+          "title": "Spa Center",
+          "text": "Indulgent rituals and relaxing massages.",
+          "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1600",
+          "href": "/spa"
+        },
+        {
+          "badge": "Experiences",
+          "title": "Guided Tours",
+          "text": "Private excursions to the desert and hidden valleys.",
+          "image": "/images/guided.jpg",
+          "href": "/activities"
+        }
+      ]
+    },
+    "intro": {
+      "eyebrow": "Riad Ghali & Spa",
+      "title": "Enjoy a Luxury Experience",
+      "lead": "A tranquil oasis in the heart of Marrakech — two patios, a rooftop terrace and warm Moroccan hospitality.",
+      "bullets": [
+        "Upgraded rooms with satellite TV & fibre internet",
+        "Traditional hammam, sauna & relaxing massages",
+        "Breakfast daily — Moroccan specialties",
+        "Quiet pocket 5 minutes from Jemaa el-Fna"
+      ],
+      "cta": "Discover more",
+      "img1": "/images/interior1.jpg",
+      "img2": "/images/rooftop3.jpg"
+    },
+    "extras": {
+      "title": "Extra Services",
+      "viewAll": "See all",
+      "items": [
+        {
+          "id": "spa",
+          "badge": "Spa",
+          "title": "Spa & Hammam",
+          "text": "Traditional hammam rituals, black-soap scrubs, ghassoul wraps and soothing massages.",
+          "href": "/discover#spa"
+        },
+        {
+          "id": "tours",
+          "badge": "Experiences",
+          "title": "Guided Tours",
+          "text": "Private excursions to Agafay desert, Ourika Valley or Essaouira with trusted drivers.",
+          "href": "/discover#tours"
+        },
+        {
+          "id": "transfer",
+          "badge": "Transport",
+          "title": "Airport Transfer",
+          "text": "Seamless airport pick-up and drop-off, plus city rides — available on request.",
+          "href": "/discover#transfer"
+        }
+      ]
+    }
+  },
+  "rooms": {
+    "eyebrow": "Abaka Riad by Ghali",
+    "title": "Rooms & Suites",
+    "lead": "Elegant suites and charming rooms with traditional Moroccan details.",
+    "gridTitle": "Choose your stay",
+    "gridHint": "Sizes and capacities vary by room.",
+    "viewRoom": "View room",
+    "book": "Book now",
+    "close": "Close",
+    "items": [
+      {
+        "id": "suite-femme-berbere",
+        "name": "Suite Femme Berbère",
+        "short": "25 m² suite with Berber decor and garden view.",
+        "long": "Traditional Berber-inspired suite with garden view. Comfortable and authentic experience.",
+        "size": "25 m²",
+        "capacity": "Up to 3 guests",
+        "features": ["Twin + single bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Femme berbère.webp",
+        "gallery": [
+          "/images/rooms/Suite Femme berbère.webp"
+        ]
+      },
+      {
+        "id": "suite-musc-oriental",
+        "name": "Suite Musc Oriental",
+        "short": "25 m² Moroccan-style suite with terrace view.",
+        "long": "Elegant Moroccan oriental style suite with terrace access.",
+        "size": "25 m²",
+        "capacity": "Up to 3 guests",
+        "features": ["Twin + single bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Musc Oriental.webp",
+        "gallery": [
+          "/images/rooms/Suite Musc Oriental.webp"
+        ]
+      },
+      {
+        "id": "chambre-lune-de-miel",
+        "name": "Chambre Lune de Miel",
+        "short": "20 m² honeymoon room with terrace view.",
+        "long": "The Honeymoon Room offers luxury and intimacy with refined decor.",
+        "size": "20 m²",
+        "capacity": "Up to 2 guests",
+        "features": ["Double bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Chambre Lune de Miel.webp",
+        "gallery": [
+          "/images/rooms/Chambre Lune de Miel.webp"
+        ]
+      },
+      {
+        "id": "suite-berbere",
+        "name": "Suite Berbère",
+        "short": "40 m² suite overlooking the courtyard.",
+        "long": "Spacious Berber-style suite overlooking the courtyard.",
+        "size": "40 m²",
+        "capacity": "Up to 4 guests",
+        "features": ["Twin + 2 single beds", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Berbère.webp",
+        "gallery": [
+          "/images/rooms/Suite Berbère.webp"
+        ]
+      },
+      {
+        "id": "suite-jasmin-damas",
+        "name": "Suite Jasmin de Damas",
+        "short": "25 m² suite with pool view.",
+        "long": "Bright suite with pool view, decorated with jasmine touches.",
+        "size": "25 m²",
+        "capacity": "Up to 4 guests",
+        "features": ["Twin + 2 single beds", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Jasmin de Damas.webp",
+        "gallery": [
+          "/images/rooms/Suite Jasmin de Damas.webp"
+        ]
+      },
+      {
+        "id": "suite-cavalier-berbere",
+        "name": "Suite Cavalier Berbère",
+        "short": "30 m² suite with terrace view.",
+        "long": "A family-friendly suite with terrace and Berber-inspired furnishings.",
+        "size": "30 m²",
+        "capacity": "Up to 4 guests",
+        "features": ["Twin + 2 single beds", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Cavalier berbère.webp",
+        "gallery": [
+          "/images/rooms/Suite Cavalier berbère.webp"
+        ]
+      },
+      {
+        "id": "double-fleur-oranger",
+        "name": "Double Fleur d’Oranger",
+        "short": "15 m² double room with corridor view.",
+        "long": "Charming double room with soft tones inspired by orange blossoms.",
+        "size": "15 m²",
+        "capacity": "Up to 2 guests",
+        "features": ["Double bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Double fleur d’oranger.webp",
+        "gallery": [
+          "/images/rooms/Double fleur d’oranger.webp"
+        ]
+      }
+    ],
+    "goodToKnow": {
+      "title": "Good to know",
+      "items": [
+        { "label": "Check-in", "value": "From 14:00" },
+        { "label": "Check-out", "value": "Until 12:00" },
+        { "label": "Breakfast", "value": "Moroccan & continental, daily" },
+        { "label": "Pets", "value": "Not allowed" },
+        { "label": "Payments", "value": "Visa, Mastercard", "note": "Cash also accepted on site" },
+        { "label": "Reception", "value": "24-hour front desk" }
+      ]
+    },
+    "policies": {
+      "title": "House rules & policies",
+      "sections": [
+        {
+          "title": "Children & extra beds",
+          "content": [
+            "All children are welcome.",
+            "Cribs available on request (subject to availability).",
+            "Extra beds may be available for some room types."
+          ]
+        },
+        {
+          "title": "Cancellation / prepayment",
+          "content": "Cancellation and prepayment policies vary according to room type and rate. Please check your selected option or contact us."
+        },
+        {
+          "title": "Smoking",
+          "content": "Non-smoking rooms. Designated outdoor areas available."
+        },
+        {
+          "title": "Quiet hours",
+          "content": "Guests are asked to keep noise to a minimum between 22:00 and 08:00."
+        }
+      ]
+    }
+  },
+  "discover": {
+    "header": {
+      "eyebrow": "Riad Ghali & Spa",
+      "lead": "More ways to enjoy Riad Ghali & Spa",
+      "image": "/images/interior1.jpg"
+    },
+    "items": [
+      {
+        "id": "spa",
+        "badge": "Experiences",
+        "title": "Spa Center",
+        "text": "Indulgent wellness with hammam rituals and relaxing massages.",
+        "image": "/images/spa.webp"
+      },
+      {
+        "id": "luxury",
+        "badge": "Transportation",
+        "title": "EM Luxury",
+        "text": "Seamless airport transfers and private excursions with professional drivers.",
+        "image": "/images/guided.jpg"
+      },
+      {
+        "id": "rooftop",
+        "badge": "Restaurant",
+        "title": "L’AMAZIGH Rooftop",
+        "text": "Dine with panoramic Medina views and a refined Moroccan menu.",
+        "image": "/images/rooftop_discover.webp",
+        "button": {
+          "label": "Explore",
+          "href": "/restaurant",
+          "external": false
+        }
+      },
+      {
+        "id": "ghali",
+        "badge": "Discover",
+        "title": "Riad Ghali",
+        "text": "Cozy atmosphere steps from Jemaa el-Fna — traditional comfort and warm service.",
+        "image": "/images/ghali.jpg",
+        "button": {
+          "label": "Explore",
+          "href": "https://raid-ghali-website.vercel.app/",
+          "external": true
+        }
+      },
+      {
+        "id": "sania",
+        "badge": "Experiences",
+        "title": "Sania Riad by Ghali",
+        "text": "Charming guesthouse near major attractions and gardens of Marrakech.",
+        "image": "/images/sania.webp"
+      }
+    ]
+  },
+  "contact": {
+    "header": {
+      "image": "/images/abaka.webp",
+      "lead": "Questions, reservations, or special requests? Send us a message and we'll get back quickly."
+    },
+    "info": {
+      "title": "Address",
+      "addressLabel": "Address",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "hoursLabel": "Hours",
+      "address": "Rue Moulay Taieb Ghali, Lakssour, 40030, Morocco",
+      "hours": "Daily · 7:30 am – 10:00 pm"
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Your name *",
+      "email": "Your email *",
+      "phone": "Your phone (optional)",
+      "subject": "Subject *",
+      "message": "Message *",
+      "consent": "I agree to be contacted regarding my request.",
+      "send": "Send message",
+      "error": "Please fill out all required fields.",
+      "success": "Thanks! Your message has been sent."
+    },
+    "map": {
+      "title": "Find us"
+    }
+  },
+  "gallery": {
+    "header": {
+      "image": "/images/rooftop4.jpg",
+      "lead": "A glimpse of our rooms, rooftop, spa rituals and Medina moments."
+    },
+    "filters": {
+      "all": "All",
+      "rooms": "Rooms",
+      "rooftop": "Rooftop",
+      "interior": "Interior"
+    },
+    "items": [
+      { "src": "/images/abaka.webp", "alt": "Patio & pool", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/rooms/Chambre Lune de Miel.webp", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Double fleur d’oranger.webp", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooftop.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/rooftop1.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/rooftop2.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/interior.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/interior1.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/rooftop3.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/rooftop4.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/interior2.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/rooms/Suite Berbère.webp", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Cavalier berbère.webp", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Femme berbère.webp", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Jasmin de Damas.webp", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Musc Oriental.webp", "alt": "Lobby details", "cat": "rooms" }
+    ]
+  }
+}
