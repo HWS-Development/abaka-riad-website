@@ -18,7 +18,9 @@ export default function Home() {
       <Extras />
       <AboutTeaser />
       <Discover />
-      <Reviews />
+      <div className="bg-brand-rose/20">
+        <Reviews />
+      </div>
       <Location />
     </>
   );
