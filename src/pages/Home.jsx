@@ -7,6 +7,7 @@ import AboutTeaser from "../components/home/AboutTeaser";
 import Discover from "../components/home/Discover";
 import Intro from "../components/home/Intro";
 import Extras from "../components/home/Extras";
+import CurveBand from "../components/common/CurveBand";
 
 export default function Home() {
   return (
@@ -18,9 +19,11 @@ export default function Home() {
       <Extras />
       <AboutTeaser />
       <Discover />
-      <div className="bg-brand-rose/20">
+      <CurveBand position="bottom" from="#FAF8F8" to="#F6DCE3" height={140} />
+      <div className="bg-brand-rose flex justify-center items-center h-fit pt-6">
         <Reviews />
       </div>
+      <CurveBand position="top" from="#FAF8F8" to="#F6DCE3" height={140} />
       <Location />
     </>
   );
