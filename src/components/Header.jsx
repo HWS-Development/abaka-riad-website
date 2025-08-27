@@ -93,7 +93,9 @@
           {/* right area: CTA + language + mobile toggle */}
           <div className="col-span-6 md:col-span-3 flex items-center justify-end gap-3">
             <a
-              href="/rooms"
+                href="https://riad-abaka-hotel-boutique.hotelrunner.com/bv3/search"
+                target="_blank"
+                rel="noreferrer"
               className="hidden sm:inline-block rounded-xl bg-brand-burgundy text-white px-3.5 py-2 text-sm"
             >
               {t("rooms.book")}
@@ -127,7 +129,9 @@
               ))}
               <li className="pt-2 flex items-center gap-4">
                 <a
-                  href="/rooms"
+                  href="https://riad-abaka-hotel-boutique.hotelrunner.com/bv3/search"
+                  target="_blank"
+                  rel="noreferrer"
                   className="rounded-lg bg-brand-burgundy text-white px-3 py-2 text-sm"
                   onClick={() => setOpen(false)}
                 >
