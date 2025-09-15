@@ -68,7 +68,7 @@ export default function ContactGrid() {
             <li className="flex gap-3">
               <IconMail /><div>
                 <div className="font-medium">{t("contact.info.emailLabel")}</div>
-                <a href="mailto:info@riadghali.com" className="opacity-80 hover:underline">info@riadghali.com</a>
+                <a href="mailto:abaka@riadghali.com" className="opacity-80 hover:underline">abaka@riadghali.com</a>
               </div>
             </li>
             <li className="flex gap-3">

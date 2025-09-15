@@ -8,10 +8,12 @@ import Activities from "./pages/Activities.jsx";
 import Gallery from "./pages/Gallery.jsx";
 import Contact from "./pages/Contact.jsx";
 import Discover from "./pages/Discover.jsx";
+import ScrollToTop from "./pages/ScrollToTop.jsx";
 
 export default function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop />
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<Home />} />
