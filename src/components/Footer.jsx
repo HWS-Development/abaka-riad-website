@@ -31,8 +31,8 @@ export default function Footer() {
               </a>
             </div>
             <div>
-              <a href="mailto:abaka@riadghali.com" className="hover:underline">
-                abaka@riadghali.com
+              <a href="mailto:colbail2016@gmail.com" className="hover:underline">
+                colbail2016@gmail.com
               </a>
             </div>
           </address>

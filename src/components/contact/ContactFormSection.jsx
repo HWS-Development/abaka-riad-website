@@ -74,8 +74,8 @@ export default function ContactFormSection() {
           </a>
         </p>
         <p className="mb-6">
-          <a href="mailto:abaka@riadghali.com" className="hover:underline">
-            abaka@riadghali.com
+          <a href="mailto:colbail2016@gmail.com" className="hover:underline">
+            colbail2016@gmail.com
           </a>
         </p>
       </div>
