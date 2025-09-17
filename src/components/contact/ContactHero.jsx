@@ -5,7 +5,7 @@ export default function ContactHero() {
   return (
     <section className="relative">
       <img
-        src={t("contact.header.image")}
+        src='/images/cover5.jpeg'
         alt=""
         className="absolute inset-0 h-[34vh] w-full object-cover"
       />

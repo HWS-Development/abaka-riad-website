@@ -143,14 +143,14 @@
           "title": "Spa Center",
           "text": "Indulgent rituals and relaxing massages.",
           "image": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=1600",
-          "href": "/spa"
+          "href": "/contact"
         },
         {
           "badge": "Experiences",
           "title": "Guided Tours",
           "text": "Private excursions to the desert and hidden valleys.",
           "image": "/images/guided.jpg",
-          "href": "/activities"
+          "href": "/contact"
         }
       ]
     },
@@ -295,6 +295,71 @@
         "image": "/images/rooms/Double fleur d’oranger.webp",
         "gallery": [
           "/images/rooms/Double fleur d’oranger.webp"
+        ]
+      },
+      {
+        "id": "suite-Cannelle",
+        "name": "Suite Cannelle",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "",
+        "gallery": [
+          ""
+        ]
+      },
+      {
+        "id": "suite-Verveine",
+        "name": "Suite Verveine",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "",
+        "gallery": [
+          ""
+        ]
+      },
+      {
+        "id": "suite-Patchouli",
+        "name": "Suite Patchouli",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "",
+        "gallery": [
+          ""
+        ]
+      },
+      {
+        "id": "suite-Ambre-Oriental",
+        "name": "Suite Ambre Oriental",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "",
+        "gallery": [
+          ""
+        ]
+      },
+      {
+        "id": "suite-Indigou-avec-Terasse",
+        "name": "Suite Indigou avec Terasse",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "",
+        "gallery": [
+          ""
         ]
       }
     ],

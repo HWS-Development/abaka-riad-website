@@ -10,7 +10,7 @@ export default function Hero() {
     <section className="relative min-h-[64vh] md:min-h-[100vh]">
       {/* Full-cover image */}
       <img
-        src="/images/interior3.jpg"
+        src="/images/cover1.jpeg"
         alt=""
         className="absolute inset-0 h-full w-full object-cover"
       />

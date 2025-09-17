@@ -7,7 +7,7 @@ export default function RoomsHeader() {
     <section className="relative">
       {/* Banner image – replace with riad bedroom/patio */}
       <img
-        src="https://images.unsplash.com/photo-1555854877-bab0e564b8d5?q=80&w=1920"
+        src="/images/cover2.jpeg"
         alt=""
         className="absolute inset-0 h-[36vh] w-full object-cover"
       />

@@ -6,12 +6,12 @@ export default function DiscoverHeader() {
   return (
     <section className="relative">
       <img
-        src={t("discover.header.image")}
+        src='/images/cover4.jpeg'
         alt=""
-        className="absolute inset-0 h-[36vh] w-full object-cover"
+        className="absolute inset-0 h-[40vh] w-full object-cover"
       />
-      <div className="relative h-[36vh] bg-black/40">
-        <div className="mx-auto max-w-6xl h-full px-4 flex flex-col justify-center">
+      <div className="relative h-[40vh] bg-black/40 flex items-center">
+        <div className="mx-auto max-w-6xl px-4">
           <div className="tracking-[0.2em] text-xs uppercase text-white/80">
             {t("discover.header.eyebrow")}
           </div>
