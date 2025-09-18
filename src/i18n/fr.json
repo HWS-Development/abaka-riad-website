@@ -181,9 +181,11 @@
         "size": "25 m²",
         "capacity": "Jusqu’à 3 personnes",
         "features": ["Lit double + lit simple", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
-        "image": "/images/rooms/Suite Femme berbère.webp",
+        "image": "/images/rooms/Suite Femme berbère1.jpeg",
         "gallery": [
-          "/images/rooms/Suite Femme berbère.webp"
+          "/images/rooms/Suite Femme berbère1.jpeg",
+          "/images/rooms/Suite Femme berbère2.jpeg",
+          "/images/rooms/Suite Femme berbère3.jpeg"
         ]
       },
       {
@@ -194,9 +196,11 @@
         "size": "25 m²",
         "capacity": "Jusqu’à 3 personnes",
         "features": ["Lit double + lit simple", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
-        "image": "/images/rooms/Suite Musc Oriental.webp",
+        "image": "/images/rooms/Suite Musc Oriental1.jpeg",
         "gallery": [
-          "/images/rooms/Suite Musc Oriental.webp"
+          "/images/rooms/Suite Musc Oriental1.jpeg",
+          "/images/rooms/Suite Musc Oriental2.jpeg",
+          "/images/rooms/Suite Musc Oriental3.jpeg"
         ]
       },
       {
@@ -207,9 +211,11 @@
         "size": "20 m²",
         "capacity": "Jusqu’à 2 personnes",
         "features": ["Lit double", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
-        "image": "/images/rooms/Chambre Lune de Miel.webp",
+        "image": "/images/rooms/Chambre Lune de Miel1.jpeg",
         "gallery": [
-          "/images/rooms/Chambre Lune de Miel.webp"
+          "/images/rooms/Chambre Lune de Miel1.jpeg",
+          "/images/rooms/Chambre Lune de Miel2.jpeg",
+          "/images/rooms/Chambre Lune de Miel3.jpeg"
         ]
       },
       {
@@ -220,9 +226,11 @@
         "size": "40 m²",
         "capacity": "Jusqu’à 4 personnes",
         "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
-        "image": "/images/rooms/Suite Berbère.webp",
+        "image": "/images/rooms/Suite Berbère1.jpeg",
         "gallery": [
-          "/images/rooms/Suite Berbère.webp"
+          "/images/rooms/Suite Berbère1.jpeg",
+          "/images/rooms/Suite Berbère2.jpeg",
+          "/images/rooms/Suite Berbère3.jpeg"
         ]
       },
       {
@@ -233,9 +241,11 @@
         "size": "25 m²",
         "capacity": "Jusqu’à 4 personnes",
         "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
-        "image": "/images/rooms/Suite Jasmin de Damas.webp",
+        "image": "/images/rooms/Suite Jasmin de Damas1.jpeg",
         "gallery": [
-          "/images/rooms/Suite Jasmin de Damas.webp"
+          "/images/rooms/Suite Jasmin de Damas1.jpeg",
+          "/images/rooms/Suite Jasmin de Damas2.jpeg",
+          "/images/rooms/Suite Jasmin de Damas3.jpeg"
         ]
       },
       {
@@ -246,9 +256,11 @@
         "size": "30 m²",
         "capacity": "Jusqu’à 4 personnes",
         "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
-        "image": "/images/rooms/Suite Cavalier berbère.webp",
+        "image": "/images/rooms/Suite Cavalier berbère1.jpeg",
         "gallery": [
-          "/images/rooms/Suite Cavalier berbère.webp"
+          "/images/rooms/Suite Cavalier berbère1.jpeg",
+          "/images/rooms/Suite Cavalier berbère2.jpeg",
+          "/images/rooms/Suite Cavalier berbère3.jpeg"
         ]
       },
       {
@@ -259,9 +271,86 @@
         "size": "15 m²",
         "capacity": "Jusqu’à 2 personnes",
         "features": ["Lit double", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
-        "image": "/images/rooms/Double fleur d’oranger.webp",
+        "image": "/images/rooms/Double fleur d’oranger1.jpeg",
         "gallery": [
-          "/images/rooms/Double fleur d’oranger.webp"
+          "/images/rooms/Double fleur d’oranger1.jpeg",
+          "/images/rooms/Double fleur d’oranger2.jpeg",
+          "/images/rooms/Double fleur d’oranger3.jpeg"
+        ]
+      },
+      {
+        "id": "suite-Cannelle",
+        "name": "Suite Cannelle",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "Jusqu’à 3 personnes",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Cannelle1.jpeg",
+        "gallery": [
+          "/images/rooms/Suite Cannelle1.jpeg",
+          "/images/rooms/Suite Cannelle2.jpeg",
+          "/images/rooms/Suite Cannelle3.jpeg"
+        ]
+      },
+      {
+        "id": "suite-Verveine",
+        "name": "Suite Verveine",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "Jusqu’à 4 personnes",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Verveine1.jpeg",
+        "gallery": [
+          "/images/rooms/Suite Verveine1.jpeg",
+          "/images/rooms/Suite Verveine2.jpeg",
+          "/images/rooms/Suite Verveine3.jpeg"
+        ]
+      },
+      {
+        "id": "suite-Patchouli",
+        "name": "Suite Patchouli",
+        "short": "",
+        "long": "",
+        "size": "Up to 5 guests",
+        "capacity": "Jusqu’à 4 personnes",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Patchouli1.jpeg",
+        "gallery": [
+          "/images/rooms/Suite Patchouli1.jpeg",
+          "/images/rooms/Suite Patchouli2.jpeg",
+          "/images/rooms/Suite Patchouli3.jpeg"
+        ]
+      },
+      {
+        "id": "suite-Ambre-Oriental",
+        "name": "Suite Ambre Oriental",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "Jusqu’à 4 personnes",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Ambre Oriental1.jpeg",
+        "gallery": [
+          "/images/rooms/Suite Ambre Oriental1.jpeg",
+          "/images/rooms/Suite Ambre Oriental2.jpeg",
+          "/images/rooms/Suite Ambre Oriental3.jpeg"
+        ]
+      },
+      {
+        "id": "suite-Indigou-avec-Terasse",
+        "name": "Suite Indigou avec Terasse",
+        "short": "",
+        "long": "",
+        "size": "",
+        "capacity": "Jusqu’à 3 personnes",
+        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "image": "/images/rooms/Suite Indigou avec Terasse1.jpeg",
+        "gallery": [
+          "/images/rooms/Suite Indigou avec Terasse1.jpeg",
+          "/images/rooms/Suite Indigou avec Terasse2.jpeg",
+          "/images/rooms/Suite Indigou avec Terasse3.jpeg"
         ]
       }
     ],
@@ -402,21 +491,26 @@
     },
     "items": [
       { "src": "/images/abaka.webp", "alt": "Patio & pool", "cat": "interior", "badge": "Interior" },
-      { "src": "/images/rooms/Chambre Lune de Miel.webp", "alt": "Suite details", "cat": "rooms" },
-      { "src": "/images/rooms/Double fleur d’oranger.webp", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Jasmin de Damas3.jpeg", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Femme berbère2.jpeg", "alt": "Suite details", "cat": "rooms" },
       { "src": "/images/rooftop.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
-      { "src": "/images/rooftop1.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
+      { "src": "/images/cover1.jpeg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
       { "src": "/images/rooftop2.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
       { "src": "/images/interior.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
-      { "src": "/images/interior1.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/cover5.jpeg", "alt": "interior", "cat": "interior", "badge": "Interior" },
       { "src": "/images/rooftop3.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
       { "src": "/images/rooftop4.jpg", "alt": "Rooftop breakfast", "cat": "rooftop", "badge": "Rooftop" },
       { "src": "/images/interior2.jpg", "alt": "interior", "cat": "interior", "badge": "Interior" },
-      { "src": "/images/rooms/Suite Berbère.webp", "alt": "Lobby details", "cat": "rooms" },
-      { "src": "/images/rooms/Suite Cavalier berbère.webp", "alt": "Lobby details", "cat": "rooms" },
-      { "src": "/images/rooms/Suite Femme berbère.webp", "alt": "Lobby details", "cat": "rooms" },
-      { "src": "/images/rooms/Suite Jasmin de Damas.webp", "alt": "Lobby details", "cat": "rooms" },
-      { "src": "/images/rooms/Suite Musc Oriental.webp", "alt": "Lobby details", "cat": "rooms" }
+      { "src": "/images/cover3.jpeg", "alt": "interior", "cat": "interior", "badge": "Interior" },
+      { "src": "/images/rooms/Suite Musc Oriental1.jpeg", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Chambre Lune de Miel3.jpeg", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Berbère2.jpeg", "alt": "Lobby details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Jasmin de Damas1.jpeg", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Cavalier berbère2.jpeg", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Femme berbère1.jpeg", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Double fleur d’oranger1.jpeg", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Verveine3.jpeg", "alt": "Suite details", "cat": "rooms" },
+      { "src": "/images/rooms/Suite Cannelle2.jpeg", "alt": "Suite details", "cat": "rooms" }
     ]
   },
   "booking": {

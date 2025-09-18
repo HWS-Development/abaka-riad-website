@@ -126,11 +126,11 @@ export default function GalleryGrid() {
               loading="lazy"
               className="h-56 w-full object-cover group-hover:scale-[1.03] transition"
             />
-            {img.badge && (
+            {/* {img.badge && (
               <span className="absolute left-2 top-2 text-xs bg-white/90 text-black px-2 py-0.5 rounded">
                 {img.badge}
               </span>
-            )}
+            )} */}
           </button>
         ))}
       </div>
