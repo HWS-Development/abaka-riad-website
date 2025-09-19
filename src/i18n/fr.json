@@ -179,8 +179,8 @@
         "short": "Suite de 25 m² avec décoration berbère et vue sur le jardin.",
         "long": "Suite d’inspiration berbère avec vue sur le jardin. Expérience confortable et authentique.",
         "size": "25 m²",
-        "capacity": "Jusqu’à 3 personnes",
-        "features": ["Lit double + lit simple", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "capacity": "Jusqu’à 4 personnes",
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "climatisation"],
         "image": "/images/rooms/Suite Femme berbère1.jpeg",
         "gallery": [
           "/images/rooms/Suite Femme berbère1.jpeg",
@@ -190,12 +190,12 @@
       },
       {
         "id": "suite-musc-oriental",
-        "name": "Suite Musc Oriental",
+        "name": "Musc Oriental",
         "short": "Suite de 25 m² de style oriental marocain avec vue terrasse.",
         "long": "Élégante suite de style oriental marocain avec accès terrasse.",
         "size": "25 m²",
         "capacity": "Jusqu’à 3 personnes",
-        "features": ["Lit double + lit simple", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "2 fenêtres", "climatisation"],
         "image": "/images/rooms/Suite Musc Oriental1.jpeg",
         "gallery": [
           "/images/rooms/Suite Musc Oriental1.jpeg",
@@ -205,12 +205,12 @@
       },
       {
         "id": "chambre-lune-de-miel",
-        "name": "Chambre Lune de Miel",
-        "short": "Chambre de 20 m² pour lune de miel avec vue terrasse.",
-        "long": "La chambre Lune de Miel offre luxe et intimité avec une décoration raffinée.",
+        "name": "Suite Lune de Miel",
+        "short": "Suite de 20 m² pour lune de miel avec vue terrasse.",
+        "long": "La Suite Lune de Miel offre luxe et intimité avec une décoration raffinée.",
         "size": "20 m²",
         "capacity": "Jusqu’à 2 personnes",
-        "features": ["Lit double", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "climatisation"],
         "image": "/images/rooms/Chambre Lune de Miel1.jpeg",
         "gallery": [
           "/images/rooms/Chambre Lune de Miel1.jpeg",
@@ -225,7 +225,7 @@
         "long": "Suite spacieuse de style berbère donnant sur le patio.",
         "size": "40 m²",
         "capacity": "Jusqu’à 4 personnes",
-        "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "2 fenêtres", "climatisation"],
         "image": "/images/rooms/Suite Berbère1.jpeg",
         "gallery": [
           "/images/rooms/Suite Berbère1.jpeg",
@@ -240,7 +240,7 @@
         "long": "Suite lumineuse avec vue sur la piscine, décorée de touches de jasmin.",
         "size": "25 m²",
         "capacity": "Jusqu’à 4 personnes",
-        "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "2 fenêtres", "climatisation"],
         "image": "/images/rooms/Suite Jasmin de Damas1.jpeg",
         "gallery": [
           "/images/rooms/Suite Jasmin de Damas1.jpeg",
@@ -255,7 +255,7 @@
         "long": "Suite familiale avec terrasse et mobilier inspiré du style berbère.",
         "size": "30 m²",
         "capacity": "Jusqu’à 4 personnes",
-        "features": ["Lit double + 2 lits simples", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "2 fenêtres", "climatisation"],
         "image": "/images/rooms/Suite Cavalier berbère1.jpeg",
         "gallery": [
           "/images/rooms/Suite Cavalier berbère1.jpeg",
@@ -265,12 +265,12 @@
       },
       {
         "id": "double-fleur-oranger",
-        "name": "Double Fleur d’Oranger",
+        "name": "Fleur d’Oranger",
         "short": "Chambre double de 15 m² avec vue couloir.",
         "long": "Chambre double charmante avec des tons doux inspirés de la fleur d’oranger.",
         "size": "15 m²",
         "capacity": "Jusqu’à 2 personnes",
-        "features": ["Lit double", "Climatisation", "Wi-Fi gratuit", "Petit déjeuner", "Accès piscine"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "2 armoires", "1 fenêtre", "climatisation"],
         "image": "/images/rooms/Double fleur d’oranger1.jpeg",
         "gallery": [
           "/images/rooms/Double fleur d’oranger1.jpeg",
@@ -281,11 +281,11 @@
       {
         "id": "suite-Cannelle",
         "name": "Suite Cannelle",
-        "short": "",
-        "long": "",
+        "short": "Chambre triple avec salle de bain privée, face à la piscine.",
+        "long": "Située au rez-de-chaussée, juste devant la piscine, cette suite triple vous offre un grand lit double et un lit simple, une salle de bain privée et tout le confort nécessaire pour un séjour paisible.",
         "size": "",
         "capacity": "Jusqu’à 3 personnes",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "2 fenêtres", "climatisation"],
         "image": "/images/rooms/Suite Cannelle1.jpeg",
         "gallery": [
           "/images/rooms/Suite Cannelle1.jpeg",
@@ -296,11 +296,11 @@
       {
         "id": "suite-Verveine",
         "name": "Suite Verveine",
-        "short": "",
-        "long": "",
+        "short": "Chambre quadruple au 1er étage, idéale pour les familles.",
+        "long": "Une suite quadruple au premier étage, équipée pour les familles ou groupes d’amis, avec un lit double et deux lits simples.",
         "size": "",
         "capacity": "Jusqu’à 4 personnes",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "2 fenêtres", "climatisation"],
         "image": "/images/rooms/Suite Verveine1.jpeg",
         "gallery": [
           "/images/rooms/Suite Verveine1.jpeg",
@@ -311,11 +311,11 @@
       {
         "id": "suite-Patchouli",
         "name": "Suite Patchouli",
-        "short": "",
-        "long": "",
-        "size": "Up to 5 guests",
-        "capacity": "Jusqu’à 4 personnes",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "short": "Grande suite familiale pouvant accueillir jusqu’à 5 personnes.",
+        "long": "Spacieuse et accueillante, cette suite familiale du premier étage comprend un lit double et trois lits simples, pouvant loger jusqu’à 5 personnes.",
+        "size": "",
+        "capacity": "Jusqu’à 5 personnes",
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "2 fenêtres", "climatisation"],
         "image": "/images/rooms/Suite Patchouli1.jpeg",
         "gallery": [
           "/images/rooms/Suite Patchouli1.jpeg",
@@ -326,11 +326,11 @@
       {
         "id": "suite-Ambre-Oriental",
         "name": "Suite Ambre Oriental",
-        "short": "",
-        "long": "",
+        "short": "Suite chaleureuse avec cheminée, parfaite pour 4 personnes.",
+        "long": "Une suite au décor chaleureux, dotée d’une cheminée et d’un fauteuil pour vos moments de détente. Avec un lit double et deux lits simples, elle peut accueillir jusqu’à 4 personnes.",
         "size": "",
         "capacity": "Jusqu’à 4 personnes",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "2 fenêtres", "climatisation", "cheminée", "fauteuil"],
         "image": "/images/rooms/Suite Ambre Oriental1.jpeg",
         "gallery": [
           "/images/rooms/Suite Ambre Oriental1.jpeg",
@@ -340,12 +340,12 @@
       },
       {
         "id": "suite-Indigou-avec-Terasse",
-        "name": "Suite Indigou avec Terasse",
-        "short": "",
-        "long": "",
+        "name": "Suite Indigo Terrasse",
+        "short": "Chambre triple avec terrasse privée.",
+        "long": "Une suite triple avec un grand lit double et un lit simple, dotée d’une terrasse privée, idéale pour profiter du soleil en toute intimité.",
         "size": "",
         "capacity": "Jusqu’à 3 personnes",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["Salle de bain privée", "sèche-cheveux", "coffre-fort", "télévision", "armoire", "climatisation"],
         "image": "/images/rooms/Suite Indigou avec Terasse1.jpeg",
         "gallery": [
           "/images/rooms/Suite Indigou avec Terasse1.jpeg",

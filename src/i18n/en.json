@@ -209,11 +209,11 @@
       {
         "id": "suite-femme-berbere",
         "name": "Suite Femme Berbère",
-        "short": "25 m² suite with Berber decor and garden view.",
-        "long": "Traditional Berber-inspired suite with garden view. Comfortable and authentic experience.",
+        "short": "25 m² suite with Berber decor and patio view.",
+        "long": "Traditional Berber-inspired suite with a view of the patio. It combines authentic charm with modern comfort, ideal for families or friends.",
         "size": "25 m²",
-        "capacity": "Up to 3 guests",
-        "features": ["Twin + single bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "capacity": "Up to 4 guests",
+        "features": ["1 double bed + 2 single beds", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Femme berbère1.jpeg",
         "gallery": [
           "/images/rooms/Suite Femme berbère1.jpeg",
@@ -224,11 +224,11 @@
       {
         "id": "suite-musc-oriental",
         "name": "Suite Musc Oriental",
-        "short": "25 m² Moroccan-style suite with terrace view.",
-        "long": "Elegant Moroccan oriental style suite with terrace access.",
+        "short": "25 m² Moroccan-style suite with pool view.",
+        "long": "An elegant suite on the first floor overlooking the pool, with warm oriental touches and all modern comforts.",
         "size": "25 m²",
         "capacity": "Up to 3 guests",
-        "features": ["Twin + single bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed + 1 single bed", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Musc Oriental1.jpeg",
         "gallery": [
           "/images/rooms/Suite Musc Oriental1.jpeg",
@@ -238,12 +238,12 @@
       },
       {
         "id": "chambre-lune-de-miel",
-        "name": "Chambre Lune de Miel",
-        "short": "20 m² honeymoon room with terrace view.",
-        "long": "The Honeymoon Room offers luxury and intimacy with refined decor.",
+        "name": "Honeymoon Room",
+        "short": "20 m² romantic double room with terrace view.",
+        "long": "The Honeymoon Room offers luxury and intimacy with refined décor, perfect for couples seeking a romantic getaway.",
         "size": "20 m²",
         "capacity": "Up to 2 guests",
-        "features": ["Double bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Chambre Lune de Miel1.jpeg",
         "gallery": [
           "/images/rooms/Chambre Lune de Miel1.jpeg",
@@ -254,11 +254,11 @@
       {
         "id": "suite-berbere",
         "name": "Suite Berbère",
-        "short": "40 m² suite overlooking the courtyard.",
-        "long": "Spacious Berber-style suite overlooking the courtyard.",
+        "short": "40 m² spacious suite with terrace view.",
+        "long": "A Berber-inspired suite located on the second floor, with a large double bed and two single beds, ideal for families or groups.",
         "size": "40 m²",
         "capacity": "Up to 4 guests",
-        "features": ["Twin + 2 single beds", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed + 2 single beds", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Berbère1.jpeg",
         "gallery": [
           "/images/rooms/Suite Berbère1.jpeg",
@@ -270,10 +270,10 @@
         "id": "suite-jasmin-damas",
         "name": "Suite Jasmin de Damas",
         "short": "25 m² suite with pool view.",
-        "long": "Bright suite with pool view, decorated with jasmine touches.",
+        "long": "Bright suite on the ground floor, facing the pool, decorated with jasmine-inspired details. Perfect for families.",
         "size": "25 m²",
         "capacity": "Up to 4 guests",
-        "features": ["Twin + 2 single beds", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed + 2 single beds", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Jasmin de Damas1.jpeg",
         "gallery": [
           "/images/rooms/Suite Jasmin de Damas1.jpeg",
@@ -285,10 +285,10 @@
         "id": "suite-cavalier-berbere",
         "name": "Suite Cavalier Berbère",
         "short": "30 m² suite with terrace view.",
-        "long": "A family-friendly suite with terrace and Berber-inspired furnishings.",
+        "long": "A family-friendly suite with Berber-inspired furnishings and a view over the terrace. Comfortable and welcoming.",
         "size": "30 m²",
         "capacity": "Up to 4 guests",
-        "features": ["Twin + 2 single beds", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed + 2 single beds", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Cavalier berbère1.jpeg",
         "gallery": [
           "/images/rooms/Suite Cavalier berbère1.jpeg",
@@ -299,11 +299,11 @@
       {
         "id": "double-fleur-oranger",
         "name": "Double Fleur d’Oranger",
-        "short": "15 m² double room with corridor view.",
-        "long": "Charming double room with soft tones inspired by orange blossoms.",
+        "short": "15 m² double room with pool view.",
+        "long": "Charming double room inspired by orange blossoms, offering soft tones and a relaxing atmosphere.",
         "size": "15 m²",
         "capacity": "Up to 2 guests",
-        "features": ["Double bed", "Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Double fleur d’oranger1.jpeg",
         "gallery": [
           "/images/rooms/Double fleur d’oranger1.jpeg",
@@ -312,13 +312,13 @@
         ]
       },
       {
-        "id": "suite-Cannelle",
+        "id": "suite-cannelle",
         "name": "Suite Cannelle",
-        "short": "",
-        "long": "",
-        "size": "",
+        "short": "25 m² suite on the ground floor with pool view.",
+        "long": "A warm and comfortable suite featuring a double bed and a single bed. Located right in front of the pool.",
+        "size": "25 m²",
         "capacity": "Up to 3 guests",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed + 1 single bed", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Cannelle1.jpeg",
         "gallery": [
           "/images/rooms/Suite Cannelle1.jpeg",
@@ -327,13 +327,13 @@
         ]
       },
       {
-        "id": "suite-Verveine",
+        "id": "suite-verveine",
         "name": "Suite Verveine",
-        "short": "",
-        "long": "",
-        "size": "",
+        "short": "25 m² family suite on the first floor.",
+        "long": "Comfortable suite with a double bed and two single beds, decorated in Moroccan style. Perfect for small families.",
+        "size": "25 m²",
         "capacity": "Up to 4 guests",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed + 2 single beds", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Verveine1.jpeg",
         "gallery": [
           "/images/rooms/Suite Verveine1.jpeg",
@@ -342,13 +342,13 @@
         ]
       },
       {
-        "id": "suite-Patchouli",
+        "id": "suite-patchouli",
         "name": "Suite Patchouli",
-        "short": "",
-        "long": "",
-        "size": "Up to 5 guests",
-        "capacity": "Up to 4 guests",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "short": "30 m² large suite with family capacity.",
+        "long": "Spacious and welcoming suite with one double bed and three single beds, ideal for groups or larger families.",
+        "size": "30 m²",
+        "capacity": "Up to 5 guests",
+        "features": ["1 double bed + 3 single beds", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Patchouli1.jpeg",
         "gallery": [
           "/images/rooms/Suite Patchouli1.jpeg",
@@ -357,13 +357,13 @@
         ]
       },
       {
-        "id": "suite-Ambre-Oriental",
+        "id": "suite-ambre-oriental",
         "name": "Suite Ambre Oriental",
-        "short": "",
-        "long": "",
-        "size": "",
+        "short": "30 m² suite with fireplace and warm décor.",
+        "long": "A charming suite featuring Moroccan ambiance, a cozy fireplace, and plenty of space for up to 4 guests.",
+        "size": "30 m²",
         "capacity": "Up to 4 guests",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed + 2 single beds", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Ambre Oriental1.jpeg",
         "gallery": [
           "/images/rooms/Suite Ambre Oriental1.jpeg",
@@ -372,13 +372,13 @@
         ]
       },
       {
-        "id": "suite-Indigou-avec-Terasse",
-        "name": "Suite Indigou avec Terasse",
-        "short": "",
-        "long": "",
-        "size": "",
+        "id": "suite-indigo-terrace",
+        "name": "Suite Indigo Terrace",
+        "short": "25 m² suite with private terrace.",
+        "long": "A stylish suite with a double bed and a single bed, featuring its own private terrace for relaxing moments.",
+        "size": "25 m²",
         "capacity": "Up to 3 guests",
-        "features": ["Air conditioning", "Free Wi-Fi", "Breakfast", "Swimming Pool access"],
+        "features": ["1 double bed + 1 single bed", "Private bathroom", "Hairdryer", "Safe", "TV", "Wardrobe", "Air conditioning"],
         "image": "/images/rooms/Suite Indigou avec Terasse1.jpeg",
         "gallery": [
           "/images/rooms/Suite Indigou avec Terasse1.jpeg",
@@ -386,7 +386,7 @@
           "/images/rooms/Suite Indigou avec Terasse3.jpeg"
         ]
       }
-    ],
+    ], 
     "goodToKnow": {
       "title": "Good to know",
       "items": [
